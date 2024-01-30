@@ -5,7 +5,7 @@ import random
 import os
 from telebot import *
 
-auth=os.environ.get('TOKEN',None)
+auth='6974767086:AAFGuDV-aO17RbP8ytohYcN3z2wZXcNHsMk'
 msg=''
 
 def extract_arg(arg):
