@@ -14,7 +14,7 @@ git clone https://github.com/hackerstech/anon-sms
 cd anon-sms
 pip3 install -r requirements.txt
 sudo apt install jq w3m
-python3 anon-sms.py
+python3 main.py
 ```
  
 ### Configs :
