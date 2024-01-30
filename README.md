@@ -36,5 +36,5 @@ after that put your msg setting number of reciever
 ```
 
 <br>
-<h5 align='center'>© 2023 kxzen X hacker X anon</h5>
+<h5 align='center'> 2023 kxzen X hacker X anon</h5>
 
