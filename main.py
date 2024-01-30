@@ -6,7 +6,7 @@ import os
 from telebot import *
 
 auth='bot token dalo'
-# auth=os.environ('pass')
+# auth=os.environ('TOKEN')
 msg=''
 
 def extract_arg(arg):
